@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brncray
 - 👀 I’m interested in Javascript and reading.
-- 🌱 I’m currently learning still learning js and djs. Updated: C
+- 🌱 I’m currently learning still learning js and djs. Updated: C, Python & Swift
 - 📫 How to reach me: Dm Brncray_#2527
 
 <!---
