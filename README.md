@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Brncray
 - 👀 I’m interested in Javascript and reading.
-- 🌱 I’m currently learning still learning js and djs.
-- 💞️ I’m looking to collaborate on discord bots mostly.
+- 🌱 I’m currently learning still learning js and djs. Updated: C
 - 📫 How to reach me: Dm Brncray_#2527
 
 <!---
